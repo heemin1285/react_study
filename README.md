@@ -13,3 +13,11 @@
 11. 터미널에 npm install
 12. npm run dev
 
+집에서는 처음 클론 한번 하고
+
+git clone 저장소 주소.
+그 이후 부터는 git pull origin main
+
+
+
+npm install
