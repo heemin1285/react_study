@@ -8,7 +8,7 @@
 6. javascript 선택
 7. 해당 프로젝트 폴더가 만들어짐
 8. vscode에서 오픈폴더해서 해당 프로젝트 폴더 열기
-9. 버전변경
+9. 버전변경 package.json => react = 18.3.1 react dom
 10. 터미널 열기(ctrl + `)
 11. 터미널에 npm install
 12. npm run dev
